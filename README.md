@@ -19,7 +19,7 @@ pip install opencv-python
 1. Run the script:
 
    ```sh
-   python script.py
+   python3 py_videowriter.py
    ```
 2. Enter the text you want to animate in the video.
 3. Select the font type from the dropdown.
